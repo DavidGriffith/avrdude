@@ -20,7 +20,7 @@
 /*
  * Driver for "usbtiny"-type programmers
  * Please see http://www.xs4all.nl/~dicks/avr/usbtiny/
- *        and http://www.ladyada.net/make/usbtinyisp/
+ *        and https://learn.adafruit.com/usbtinyisp
  * For example schematics and detailed documentation
  */
 
